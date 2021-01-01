@@ -208,5 +208,28 @@ module.exports = [
       'HTML',
       'Front End'
     ],
+  },
+    {
+    name: 'Christoph Werner',
+    description: 'Software architect writing about web development and cloud technology.',
+    url: 'https://codepunkt.de/',
+    twitter: '@code_punkt',
+    tags: [
+      'Web Development',
+      'Software Architecture',
+      'Cloud Infrastucture',
+      'JavaScript',
+      'TypeScript',
+      'CSS',
+      'HTML',
+      'Frontend',
+      'APIs',
+      'GraphQL',
+      'SaaS',
+      'React',
+      'Docker',
+      'Kubernetes',
+      'Node.js'
+    ],
   }
 ];
